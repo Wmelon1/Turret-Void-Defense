@@ -1,0 +1,12 @@
+{
+  "version": "2.7.0",
+  "url": "https://github.com/Wmelon1/Turret-Void-Defense-2.7.0/releases/download/v2.7.0/turret_void_defense_2.7.0.zip",
+  "sha256": "6833ad267c7c51df45a3488083e9e033e79d2ed473d0c4c7ab155e387cb280fc",
+  "notes": [
+    "The game now checks GitHub for updates at startup.",
+    "Update banner on the command deck: U to download, X to skip.",
+    "SHA-256 verified downloads with progress bar.",
+    "Restart-to-install handoff: the game swaps itself and relaunches.",
+    "build_release.py packages the zip + manifest for GitHub Releases."
+  ]
+}
