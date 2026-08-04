@@ -1,10 +1,10 @@
 {
-  "version": "2.8.1",
-  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v2.8.1/turret_void_defense_2.8.1.zip",
-  "sha256": "8826be7639a0d8ea8362db190941f533ec397fb60b7d441f9ffeeed0527946bc",
+  "version": "2.9.1",
+  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v2.9.1/turret_void_defense_2.9.1.zip",
+  "sha256": "c2b7dc2c7f5f44b2f2f2044b1029b4e747d92017fc5ec9d9c447fb495d3dd6a3",
   "notes": [
-    "Game speed now responds to T (cycle), [ ] - = and / keys.",
-    "Any speed key press always changes the timer visibly.",
-    "Clearer in-game hint: T/[ ]/-/= TIME."
+    "Fixed a crash on boss rush when two bosses were alive at once",
+    "(e.g. skipping wave 1 while the Slagbrute still lived).",
+    "Boss health bar now reliably tracks the strongest living boss."
   ]
 }
