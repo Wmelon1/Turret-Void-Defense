@@ -1,11 +1,13 @@
 {
-  "version": "2.9.6",
-  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v2.9.6/turret_void_defense_2.9.6.zip",
-  "sha256": "bd6b540c71a3afacf6839e10a9d59c2b0b4aa45a91160f6447f55c684bdeea4b",
+  "version": "2.9.7",
+  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v2.9.7/turret_void_defense_2.9.7.zip",
+  "sha256": "a03f1d07ec226033952f3348e157138fef0961dc91640ebc9a3788bd7bd7a4e1",
   "notes": [
-    "Scroll wheel now works on the ARSENAL, CONTROLS, and OPTIONS screens.",
-    "Main menu bottom buttons are wider and evenly spaced.",
-    "Every mode card has its own unique procedural logo.",
-    "Fixed the identity screen typing every letter twice."
+    "LAN shows every player's cursor and current action for coordination.",
+    "Each player has their own bank - rewards and expenses are personal.",
+    "You can only upgrade, sell, or retarget your own turrets.",
+    "Vortex Siphon is capped at 5 drain beams.",
+    "Turrets now have 6 upgrade levels with the same max stats.",
+    "Costs scale by MAX DPS: x2 at 150+, x3 at 250+."
   ]
 }
