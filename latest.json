@@ -1,10 +1,11 @@
 {
-  "version": "2.9.1",
-  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v2.9.1/turret_void_defense_2.9.1.zip",
-  "sha256": "c2b7dc2c7f5f44b2f2f2044b1029b4e747d92017fc5ec9d9c447fb495d3dd6a3",
+  "version": "2.9.6",
+  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v2.9.6/turret_void_defense_2.9.6.zip",
+  "sha256": "bd6b540c71a3afacf6839e10a9d59c2b0b4aa45a91160f6447f55c684bdeea4b",
   "notes": [
-    "Fixed a crash on boss rush when two bosses were alive at once",
-    "(e.g. skipping wave 1 while the Slagbrute still lived).",
-    "Boss health bar now reliably tracks the strongest living boss."
+    "Scroll wheel now works on the ARSENAL, CONTROLS, and OPTIONS screens.",
+    "Main menu bottom buttons are wider and evenly spaced.",
+    "Every mode card has its own unique procedural logo.",
+    "Fixed the identity screen typing every letter twice."
   ]
 }
