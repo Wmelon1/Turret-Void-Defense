@@ -1,13 +1,10 @@
 {
-  "version": "2.9.7",
-  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v2.9.7/turret_void_defense_2.9.7.zip",
-  "sha256": "a03f1d07ec226033952f3348e157138fef0961dc91640ebc9a3788bd7bd7a4e1",
+  "version": "2.9.7.2",
+  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v2.9.7.2/turret_void_defense_2.9.7.2.zip",
+  "sha256": "152cacce0d7f226515d15ae37e0b60455702ce06dbfaaa66848d318fc63bc32c",
   "notes": [
-    "LAN shows every player's cursor and current action for coordination.",
-    "Each player has their own bank - rewards and expenses are personal.",
-    "You can only upgrade, sell, or retarget your own turrets.",
-    "Vortex Siphon is capped at 5 drain beams.",
-    "Turrets now have 6 upgrade levels with the same max stats.",
-    "Costs scale by MAX DPS: x2 at 150+, x3 at 250+."
+    "Fixed clients displaying the host's bank and watching it drain.",
+    "Each LAN client now registers its own wallet and sees only its own balance.",
+    "Regression-tested: host and client wallets diverge on spend."
   ]
 }
