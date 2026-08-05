@@ -1,20 +1,10 @@
 {
-  "version": "3.0.0.2",
-  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v3.0.0.2/turret_void_defense_3.0.0.2.zip",
-  "sha256": "9b55b9ab38be614b033521e0659ec94adbc970fff884de0712e7682174d9ac22",
+  "version": "3.1.5",
+  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v3.1.5/turret_void_defense_3.1.5.zip",
+  "sha256": "79b15b4b9ade3b98352ccff1bfe42b252dc669e07627453071cd77f79485ae40",
   "notes": [
-    "Arsenal and loadout wheel scrolling now covers the full grid.",
-    "Options screen layout tightened so nothing spills out of the panel.",
-    "Dedicated CODES button on the command deck (top right).",
-    "Achievements screen gained wheel scrolling.",
-    "Fixed a crash when opening LAN chat (Y).",
-    "Controls screen updated with chat, emotes, spectator, and randomizer controls.",
-    "Skin buttons now show the rarity class (GENERIC / RARE / ELITE) instead of confusing flavor names.",
-    "UI cleanup: arsenal rows no longer spill off-screen, chat box fits in frame, code screen and options panel layouts tightened.",
-    "Name your operator GreedProMax to receive 500,000 salvage (one-time).",
-    "In-game: the selected tower now shows its equipped skin name next to the tower name.",
-    "Fixed a crash when a Blinding Light Gauss Array renders (stray staticmethod).",
-    "Fixed the skin selector underline: the bar now lands under the equipped skin, not the default chip.",
-    "Fixed backspace while typing in LAN chat."
+    "Max-out upgrade costs now respect DPS tiers: the three weakest combat towers stay under 1,000 total, 50-90 max DPS under 5,000, 90-150 under 15,000, 200-300 under 50,000, and the top band (300+) caps at 69,900 (Lance).",
+    "Upgrade steps are back-loaded and exponential - early levels are cheap, the final levels are the real investment.",
+    "Early and mid-game towers stay fully playable: Rivet maxes out at 3,100, Swarm at 800, and the Singularity Well at 200."
   ]
 }
