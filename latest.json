@@ -1,10 +1,20 @@
 {
-  "version": "2.9.7.2",
-  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v2.9.7.2/turret_void_defense_2.9.7.2.zip",
-  "sha256": "152cacce0d7f226515d15ae37e0b60455702ce06dbfaaa66848d318fc63bc32c",
+  "version": "3.0.0.2",
+  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v3.0.0.2/turret_void_defense_3.0.0.2.zip",
+  "sha256": "9b55b9ab38be614b033521e0659ec94adbc970fff884de0712e7682174d9ac22",
   "notes": [
-    "Fixed clients displaying the host's bank and watching it drain.",
-    "Each LAN client now registers its own wallet and sees only its own balance.",
-    "Regression-tested: host and client wallets diverge on spend."
+    "Arsenal and loadout wheel scrolling now covers the full grid.",
+    "Options screen layout tightened so nothing spills out of the panel.",
+    "Dedicated CODES button on the command deck (top right).",
+    "Achievements screen gained wheel scrolling.",
+    "Fixed a crash when opening LAN chat (Y).",
+    "Controls screen updated with chat, emotes, spectator, and randomizer controls.",
+    "Skin buttons now show the rarity class (GENERIC / RARE / ELITE) instead of confusing flavor names.",
+    "UI cleanup: arsenal rows no longer spill off-screen, chat box fits in frame, code screen and options panel layouts tightened.",
+    "Name your operator GreedProMax to receive 500,000 salvage (one-time).",
+    "In-game: the selected tower now shows its equipped skin name next to the tower name.",
+    "Fixed a crash when a Blinding Light Gauss Array renders (stray staticmethod).",
+    "Fixed the skin selector underline: the bar now lands under the equipped skin, not the default chip.",
+    "Fixed backspace while typing in LAN chat."
   ]
 }
