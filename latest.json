@@ -1,12 +1,18 @@
 {
-  "version": "3.1.6",
-  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v3.1.6/turret_void_defense_3.1.6.zip",
-  "sha256": "306272914bf37768ea8778092bae1870d28a2337a5eb66eda23966758ba368ed",
+  "version": "3.1.7",
+  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v3.1.7/turret_void_defense_3.1.7.zip",
+  "sha256": "328f6125b3734a805fd4c8fc6605b74c20d6f938436974f40760dc145d3e1593",
   "notes": [
-    "Starting cash now scales with difficulty: Easy 775 growing to Hard 925, Expedition 975, Boss Rush 1,000, and Voidcore 1,500.",
-    "No bosses or mini-bosses in the first 10 waves of any mode (Voidcore keeps its own pacing); mini-bosses return on every 5-wave mark, and each mode's final boss still guards the last wave.",
-    "Voidcore wave 13's spawner spam is cut (brood 14 to 6) and every voidcore wave's spawn counts were capped - the 30-50 wave slog is now survivable.",
-    "Wave rewards now follow the same ratio as starting cash: Easy is the base, and every harder mode pays proportionally more (Voidcore wave bonuses are nearly double).",
-    "Endless no longer spams the campaign finale - it scales chaff forever with mini-bosses on the 5-wave marks."
+    "FOUR NEW MIDGAME TURRETS in the Incinerator tier: Chain Spinner (six-barrel minigun, 8 shots/sec), Pulse Diffuser, Thermal Batter, and Shrapnel Driver - all max out in the 30-36k range.",
+    "UPGRADE REVAMP: every upgrade now boosts multiple stats at once (Damage + Optics, Damage + Cycler, Booster, and more) with the same max DPS as before; the upgrade button and the turret menu list exactly what each level adds.",
+    "SUPPORTS GOT REAL STATS: fabricator shows its cash rate (CASH +x/3S), command uplink shows its aura damage, null stabilizer shows its void cleanse - and every support upgrade now genuinely scales its signal.",
+    "STUN/AOE TURRETS display their current splash radius, damage, and effect values in the turret menu.",
+    "Blinding Light: the floating panels now track the cannon direction, the bolts become a thick double ray of light, and each shot flashes at the barrel mouths.",
+    "HOVER INFO: hovering over an ally's turret shows its stats and owner; hovering over an enemy shows name, tags, speed, armor, and a live health bar.",
+    "FIXED: leaking the final boss on the last wave is now a defeat, never a win.",
+    "FIXED: snapshots no longer let your selection stick to another player's turret.",
+    "Blinding Light's floating panels are now parented to the barrel - they rotate with the cannon, sit far in front, and separate on every shot.",
+    "Chain Spinner got its own minigun model: a six-barrel cluster that gains ammo feeds, side drums, and muzzle rings as it levels.",
+    "SEARCH BARS in the arsenal and the loadout screen: click the box to type, filter cards live, X/ESC clears, ESC again backs out."
   ]
 }
