@@ -1,11 +1,12 @@
 {
-  "version": "3.1.5",
-  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v3.1.5/turret_void_defense_3.1.5.zip",
-  "sha256": "ec6419e493e6312dde00b7f6051662baca8db34fc40a445c5f1ace746e93b3e6",
+  "version": "3.1.6",
+  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v3.1.6/turret_void_defense_3.1.6.zip",
+  "sha256": "306272914bf37768ea8778092bae1870d28a2337a5eb66eda23966758ba368ed",
   "notes": [
-    "Max-out upgrade costs now respect DPS tiers: the three weakest combat towers stay under 1,000 total, 50-90 max DPS under 5,000, 90-150 under 15,000, 200-300 under 50,000, and the top band (300+) caps at 69,900 (Lance).",
-    "Upgrade steps are back-loaded and exponential - early levels are cheap, the final levels are the real investment.",
-    "Early and mid-game towers stay fully playable: Rivet maxes out at 3,100, Swarm at 800, and the Singularity Well at 200.",
-    "Fixed: pressing D or right-clicking to deselect now also exits tower placing, and clicking the field can no longer crash with no active blueprint."
+    "Starting cash now scales with difficulty: Easy 775 growing to Hard 925, Expedition 975, Boss Rush 1,000, and Voidcore 1,500.",
+    "No bosses or mini-bosses in the first 10 waves of any mode (Voidcore keeps its own pacing); mini-bosses return on every 5-wave mark, and each mode's final boss still guards the last wave.",
+    "Voidcore wave 13's spawner spam is cut (brood 14 to 6) and every voidcore wave's spawn counts were capped - the 30-50 wave slog is now survivable.",
+    "Wave rewards now follow the same ratio as starting cash: Easy is the base, and every harder mode pays proportionally more (Voidcore wave bonuses are nearly double).",
+    "Endless no longer spams the campaign finale - it scales chaff forever with mini-bosses on the 5-wave marks."
   ]
 }
