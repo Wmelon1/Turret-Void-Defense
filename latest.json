@@ -1,10 +1,11 @@
 {
   "version": "3.1.5",
   "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v3.1.5/turret_void_defense_3.1.5.zip",
-  "sha256": "79b15b4b9ade3b98352ccff1bfe42b252dc669e07627453071cd77f79485ae40",
+  "sha256": "ec6419e493e6312dde00b7f6051662baca8db34fc40a445c5f1ace746e93b3e6",
   "notes": [
     "Max-out upgrade costs now respect DPS tiers: the three weakest combat towers stay under 1,000 total, 50-90 max DPS under 5,000, 90-150 under 15,000, 200-300 under 50,000, and the top band (300+) caps at 69,900 (Lance).",
     "Upgrade steps are back-loaded and exponential - early levels are cheap, the final levels are the real investment.",
-    "Early and mid-game towers stay fully playable: Rivet maxes out at 3,100, Swarm at 800, and the Singularity Well at 200."
+    "Early and mid-game towers stay fully playable: Rivet maxes out at 3,100, Swarm at 800, and the Singularity Well at 200.",
+    "Fixed: pressing D or right-clicking to deselect now also exits tower placing, and clicking the field can no longer crash with no active blueprint."
   ]
 }
