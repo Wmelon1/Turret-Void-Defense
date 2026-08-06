@@ -1,13 +1,18 @@
 {
-  "version": "3.1.7.2",
-  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v3.1.7.2/turret_void_defense_3.1.7.2.zip",
-  "sha256": "d3274e26a5e4bf6b729a25d226bbab79b5cb2eee88a84a2768778248558518d0",
+  "version": "3.1.8",
+  "url": "https://github.com/Wmelon1/Turret-Void-Defense/releases/download/v3.1.8/turret_void_defense_3.1.8.zip",
+  "sha256": "5e5fd7aa8dc674fdb883d61aa48abff46032996d4e466349e09489275a3a6338",
   "notes": [
-    "Every map's cliff spots expanded to 2x2 sites - room for a full battery of anti-air.",
-    "APEX RAIL: a kilometer-long railgun, 1,267 damage per round with a 4-second cooldown at max, extreme range.",
-    "TEMPEST GUN: six barrels fire insanely fast 2-second bursts at 523 max DPS, trailing smoke from every volley.",
-    "Both new towers sit on cliffs in the proper heavy price range (49.5k / 53.2k max-out).",
-    "TEMPEST GUN REWORK: fires a fast staggered burst of 4 rounds at max (3 at low levels) on a 3s base reload that upgrades down to exactly 2s; smoke still pours from every volley.",
-    "APEX RAIL REWORK: reloads start at 6 seconds and the cycler upgrades cut it to exactly 4s at max - a slower, heavier rhythm."
+    "UI CLEANUP: the arsenal top row no longer crowds - SALVAGE moved clear of the buttons, and every screen re-audited for overlaps.",
+    "SKIN COVERAGE COMPLETE: 64 skins across all 30 turrets - every turret now has at least 2, and the 7 skinned-less towers got rare/elite designs (Oblivion Lance, Skybreaker Rail, Stormcall Tempest, and more).",
+    "GAUNTLETS: a new shop screen where the campaign camera V.O.X. idles in the background. The Commander Package costs 5,000 scraps and grants one random Commander skin per purchase (one at a time, never duplicates).",
+    "COMMANDER PACKAGE SKINS: blue-cyber hulls with red highlights, a yellow screen, and a glowing badge - they grow more detailed with every upgrade level.",
+    "COMMANDER POWER: these skins buff damage by 30% at levels 1-3, 20% at level 4, and 15% at max, and unlock the E key ability: two mini vehicles drive from the core down the path, stop in range, and fight with their own health.",
+    "Commander skins sit on a blue-and-red base plate (no more gray clashing), their arsenal chips read COMMAND in red-and-blue letters, and the crate icon is a fully detailed cyber crate.",
+    "MINI VEHICLES now deploy from the core at the far end of the lane and drive the route in reverse toward the enemy entry, with an E READY badge over the turret and a deploy button in the turret panel.",
+    "COMMANDER SKINS REDESIGNED: the hull is fully blue with red detailing, a yellow holograph screen mounts on the side and grows with level, and the badge pulses on top - every commander turret keeps its own distinct silhouette.",
+    "COMMANDER BUFF hits every stat now: damage, range, and fire rate all scale 30% / 30% / 30% / 20% / 15% / 15% across the levels, and the uplink aura scales too.",
+    "MINIS ARE TRUE COPIES: a vortex siphon mini drains up to 5 enemies with its beams, an uplink mini broadcasts its buff to nearby turrets, and every mini wears its owner's exact model.",
+    "MINIS no longer stack on spawn - they deploy side by side with a short stagger."
   ]
 }
